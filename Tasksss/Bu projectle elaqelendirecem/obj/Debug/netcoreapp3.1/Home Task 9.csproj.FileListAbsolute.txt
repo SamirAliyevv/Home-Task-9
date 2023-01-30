@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Home Taks yoxluyuram\HomeTask1\Bu projectle elaqelendirecem\bin\Debug\netcoreapp3.1\Home Task 9.exe
+C:\Users\ASUS\Desktop\Home Taks yoxluyuram\HomeTask1\Bu projectle elaqelendirecem\bin\Debug\netcoreapp3.1\Home Task 9.deps.json
+C:\Users\ASUS\Desktop\Home Taks yoxluyuram\HomeTask1\Bu projectle elaqelendirecem\bin\Debug\netcoreapp3.1\Home Task 9.runtimeconfig.json
+C:\Users\ASUS\Desktop\Home Taks yoxluyuram\HomeTask1\Bu projectle elaqelendirecem\bin\Debug\netcoreapp3.1\Home Task 9.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Home Taks yoxluyuram\HomeTask1\Bu projectle elaqelendirecem\bin\Debug\netcoreapp3.1\Home Task 9.dll
+C:\Users\ASUS\Desktop\Home Taks yoxluyuram\HomeTask1\Bu projectle elaqelendirecem\bin\Debug\netcoreapp3.1\Home Task 9.pdb
+C:\Users\ASUS\Desktop\Home Taks yoxluyuram\HomeTask1\Bu projectle elaqelendirecem\obj\Debug\netcoreapp3.1\Home Task 9.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Home Taks yoxluyuram\HomeTask1\Bu projectle elaqelendirecem\obj\Debug\netcoreapp3.1\Home Task 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Home Taks yoxluyuram\HomeTask1\Bu projectle elaqelendirecem\obj\Debug\netcoreapp3.1\Home Task 9.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Home Taks yoxluyuram\HomeTask1\Bu projectle elaqelendirecem\obj\Debug\netcoreapp3.1\Home Task 9.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Home Taks yoxluyuram\HomeTask1\Bu projectle elaqelendirecem\obj\Debug\netcoreapp3.1\Home Task 9.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Home Taks yoxluyuram\HomeTask1\Bu projectle elaqelendirecem\obj\Debug\netcoreapp3.1\Home Task 9.dll
+C:\Users\ASUS\Desktop\Home Taks yoxluyuram\HomeTask1\Bu projectle elaqelendirecem\obj\Debug\netcoreapp3.1\Home Task 9.pdb
+C:\Users\ASUS\Desktop\Home Taks yoxluyuram\HomeTask1\Bu projectle elaqelendirecem\obj\Debug\netcoreapp3.1\Home Task 9.genruntimeconfig.cache
